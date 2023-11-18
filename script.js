@@ -10,7 +10,7 @@ function addItem(){
 }
 
 
-function deleteItem(event) {
+function deleteElement(event) {
 
     event.target.parentElement.remove()
     
